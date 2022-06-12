@@ -1,5 +1,13 @@
 <h3> Projetos e exercícios em Python 🐍 </h3>
 
+➡️ [Projeto Satisfação do Consumidor](https://github.com/JoiceO/python/blob/master/Customer_Satisfaction_Ecommerce_Project_Aula01.ipynb) elaborado na [Comunidade Mulheres em Dados](https://github.com/mulheresemdados):<br>
+Conteúdo<br>
+. Entendimento, carregamento e pré-processamento dos dados sobre consumidores, produtos, vendas e vendedores<br>
+. EDA -  análise dos dados resultando nos principais insights sobre o negócio<br>
+. Feature enginnering - engenharia de características e criação do modelo de machine learning a partir das variáveis que mais fazem sentido para o negócio<br>
+. Avaliação e melhorias da performance do modelo de machine learning
+<br>
+
 ➡️ [Casos de feminicídio no estado de São Paulo a partir de janeiro de 2018](https://github.com/JoiceO/scraping-EDA-ML-feminicidio)<br>
 Conteúdo<br>
 .  Projeto que envolve a raspagem (com loop para os próximos resultados publicados), análise exploratória de dados e previsão de casos (por série temporal) de feminicídio no Estado de São Paulo, por meio dos dados estatísticos da Secretaria de Segurança Pública do estado de São Paulo (SSP/SP), a partir de janeiro de 2018.<br>
