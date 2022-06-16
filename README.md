@@ -1,6 +1,6 @@
 <h3> Projetos e exercícios em Python 🐍 </h3>
 
-➡️ [Projeto Satisfação do Consumidor](https://github.com/JoiceO/python/blob/master/Customer_Satisfaction_Ecommerce_Project_Aula01.ipynb) elaborado na [Comunidade Mulheres em Dados](https://github.com/mulheresemdados):<br>
+➡️ [Projeto Satisfação do Consumidor](https://github.com/JoiceO/python/tree/Customer-Satisfaction-Ecommerce-Project) elaborado na [Comunidade Mulheres em Dados](https://github.com/mulheresemdados):<br>
 Conteúdo<br>
 . Entendimento, carregamento e pré-processamento dos dados sobre consumidores, produtos, vendas e vendedores;<br>
 . EDA -  análise dos dados resultando nos principais insights sobre o negócio;<br>
