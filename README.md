@@ -1,4 +1,5 @@
 <h3> Projetos e exercícios em Python 🐍 </h3>
+<h5>(clique nos links em azul abaixo para ser redirecionada(o) aos repositórios ou pastas) </h5> <br>
 
 ➡️ [Curso 'Teste de Hipótese: Estatística do Básico ao Avançado'](https://github.com/JoiceO/python/tree/master/estatistica-basico-avancado) [em curso]:<br>
 Desafios<br>
