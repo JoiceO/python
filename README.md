@@ -1,9 +1,12 @@
 <h3> Projetos e exercícios em Python 🐍 </h3>
 <h5>(clique nos links em azul abaixo para ser redirecionada(o) aos repositórios ou pastas) </h5> <br>
 
-➡️ [Curso 'Teste de Hipótese: Estatística do Básico ao Avançado'](https://github.com/JoiceO/python/tree/master/estatistica-basico-avancado) [em curso]:<br>
+➡️ [Curso 'Teste de Hipótese: Estatística do Básico ao Avançado'](https://github.com/JoiceO/python/tree/master/estatistica-basico-avancado):<br>
 Desafios<br>
-. Estatística descritiva
+. Desafio 1: Estatística descritiva; histogramas; gráficos de barras, de dispersão e boxplot;<br>
+. Desafio 2: Probabilidade; medidas de tendência central e separatrizes; teste-t para amostras independentes;<br>
+. Desafio 3 (continuação do 1º desafio): teste-t para amostras independentes; ANOVA;<BR>
+. Desafio 4: _em construção_
 
 ➡️ [Projeto Satisfação do Consumidor](https://github.com/JoiceO/python/tree/master/Customer%20Satisfaction%20Ecommerce%20Project) elaborado na [Comunidade Mulheres em Dados](https://github.com/mulheresemdados):<br>
 Conteúdo<br>
