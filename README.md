@@ -4,7 +4,8 @@
 ➡️ [Imersão Python: Do Excel à Análise de Dados @ Alura](https://github.com/JoiceO/python/tree/master/Imers%C3%A3o%20Python%20Do%20Excel%20%C3%A0%20An%C3%A1lise%20de%20Dados):<br>
 Conteúdo<br>
 . Análise de ações brasileiras na B3 por meio do Google Sheets e Python, envolvendo raspagem, limpeza, análise descritiva e plotagem de gráficos
-<br> 
+<br><br>
+
 ➡️ [Curso 'Teste de Hipótese: Estatística do Básico ao Avançado'](https://github.com/JoiceO/python/tree/master/estatistica-basico-avancado):<br>
 Desafios<br>
 . Desafio 1: Estatística descritiva; histogramas; gráficos de barras, de dispersão e boxplot;<br>
