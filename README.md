@@ -1,6 +1,9 @@
 <h3> Projetos e exercícios em Python 🐍 </h3>
 <h5>(clique nos links em azul abaixo para ser redirecionada(o) aos repositórios ou pastas) </h5> <br>
 
+➡️ [Revisão sistemática sobre mitigação de gases de efeito estufa](https://github.com/JoiceO/article_MBA)<br>
+. Gráficos de medida central e georreferenciados para a pesquisa 
+
 ➡️ [Desafio de rotatividade de RH @ Data Viking](https://github.com/JoiceO/python/tree/master/Rotatividade%20RH):<br>
 Conteúdo<br>
 . Análise exploratória sobre turnover de funcionários em uma software house.
